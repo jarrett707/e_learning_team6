@@ -1,0 +1,36 @@
+li {
+    display: inline;
+}
+
+button {
+    background-color: greenyellow;
+    border: none;
+    color: blueviolet;
+    padding: 20px 50px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    size: 60px;
+  }
+
+.NavList{
+    align-items: center;
+    text-align: right;
+}
+
+.logo{
+    padding: 10px;
+    text-align: left;
+}
+
+.NavBar {
+    background-color: aquamarine;
+    padding: 10px;
+}
