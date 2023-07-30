@@ -1,15 +1,24 @@
+body{
+    margin: 0px;
+}
 li {
     display: inline;
 }
-
+h1{
+    margin: 0px;
+}
 button {
-    background-color: greenyellow;
+    background-color: rgb(11, 102, 106);
     border: none;
-    color: blueviolet;
-    padding: 20px 50px;
+    color: rgb(39, 40, 41);
+    padding: 10px 40px;
     text-align: center;
     display: inline-block;
     font-size: 16px;
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    margin: 5px;
 
 }
 
@@ -17,7 +26,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    size: 60px;
+    size: 0px;
   }
 
 .NavList{
@@ -26,37 +35,36 @@ ul {
 }
 
 .logo{
-    padding: 10px;
-    text-align: left;
+    font-size: 36px;
+    color: #6119b9;
+    position: relative;
+    top: 20px;
+    left: 10px;
 }
 
 .NavBar {
-    background-color: rgb(132, 33, 218);
-    padding: 10px;
+    background-color:rgb(39, 40, 41);
+    
 }
 
 .Mid {
-    background-color: rgb(139, 17, 220);
-    padding: 400px;
-    background-image: url("https://www.shiftelearning.com/hubfs/visuals-elearning.jpg");  
-    text-align: left;  
-}
-header {
-    background-color: rgb(40, 219, 219);
-    padding: 30px;
-    text-align: right;
+    padding: 40px; 
+    text-align: left;
+    text-align-last: auto; 
 }
 
-h1 {
-    font-size: 36px;
-    color: #6119b9;
-    margin-bottom: 10px;
-    text-align: left;
-}
+
 
 p {
     font-size: 18px;
     color: #333;
     line-height: 1.6;
     text-align: center;
+}
+
+.Intro{
+    background-color: rgb(40, 219, 219);
+    padding: 100px;
+    text-align: left;
+
 }
