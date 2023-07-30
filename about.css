@@ -33,12 +33,12 @@ ul {
 .NavList{
     align-items: center;
     text-align: right;
-    
+    color: white;
     text-decoration: none;
 }
-.NavBar a{
+.NavList a{
     text-decoration: none;
-    color: white;
+    color:white;
 }
 
 .logo{
@@ -54,34 +54,43 @@ ul {
     
 }
 
-.Mid {
-    padding: 40px; 
-    text-align: left;
-    text-align-last: auto; 
+.one{
+    font-size:larger;
+    
+}
+.t{margin:30px;
 }
 
 
 
-p {
-    font-size: 18px;
-    color: #333;
-    line-height: 1.6;
-    text-align: center;
+.black-heading{color: rgb(39, 40, 41);
+    font-family: 'Lugrasimo', cursive;
 }
 
-.Intro{
-    background-color: rgb(40, 219, 219);
-    padding: 50px;
-    text-align: left;
+.h{font-weight: bold;
+font-size: xx-large;}
 
+.men{
+    width:400px;
+    height:500px;
+    margin:10px;
+border:3px solid black;
 }
-
-
-.first{
-    width: 50%;
-    float: right;
+.women{
+    width:400px;
+    height:500px;
+    margin:10px;
+    border:3px solid black;
 }
-.second{
-    width: 50%;
-    float: left;
+.table{text-align: center;}
+.name{
+    font-size:x-large;
+}
+.tt{
+    color: white;
+    background-color:rgb(97, 103, 122);
+}
+.sn{
+    height:300px;
+    width: 200px;
 }
