@@ -64,7 +64,17 @@ p {
 
 .Intro{
     background-color: rgb(40, 219, 219);
-    padding: 100px;
+    padding: 50px;
     text-align: left;
 
+}
+
+
+.first{
+    width: 50%;
+    float: right;
+}
+.second{
+    width: 50%;
+    float: left;
 }
