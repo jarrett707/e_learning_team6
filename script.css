@@ -31,6 +31,32 @@ ul {
 }
 
 .NavBar {
-    background-color: aquamarine;
+    background-color: rgb(132, 33, 218);
     padding: 10px;
+}
+
+.Mid {
+    background-color: rgb(139, 17, 220);
+    padding: 400px;
+    background-image: url("https://www.shiftelearning.com/hubfs/visuals-elearning.jpg");  
+    text-align: left;  
+}
+header {
+    background-color: rgb(40, 219, 219);
+    padding: 30px;
+    text-align: right;
+}
+
+h1 {
+    font-size: 36px;
+    color: #6119b9;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+    text-align: center;
 }
