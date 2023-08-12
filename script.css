@@ -11,7 +11,7 @@ h1{
 button {
     background-color:white;
     border: none;
-    color: rgb(39, 40, 41);
+    color: white;
     padding: 10px 40px;
     text-align: center;
     display: inline-block;
@@ -20,6 +20,7 @@ button {
     bottom: 20px;
     right: 20px;
     margin: 5px;
+    text-decoration: none;
 
 }
 
@@ -33,6 +34,12 @@ ul {
 .NavList{
     align-items: center;
     text-align: right;
+    
+    text-decoration: none;
+}
+.NavBar a{
+    text-decoration: none;
+    color: white;
 }
 
 .logo{
@@ -62,6 +69,7 @@ p {
     line-height: 1.6;
     text-align: center;
 }
+
 
 .Intro{
     padding: 25px;
