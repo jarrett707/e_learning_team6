@@ -108,3 +108,37 @@ p {
    
 
 }
+.big{
+    font-size: xx-large;
+    font-weight: bolder;
+margin-left: 200px;
+margin-right: 300px;
+}
+.pic{
+    margin: 20px;
+    border:2px solid black;
+    
+}
+.course{
+    background-color: rgb(150, 182, 197);
+}
+.text{
+    font-weight: bold;
+    font-size: larger;
+}
+.pict{
+    margin: 40px;
+    border:2px solid black;
+    
+}
+.footer{
+       
+ display :flex;
+ justify-content: center;
+    background-color: rgb(37, 43, 72);
+}
+.foot{
+    color: white;
+    font-size: x-large;
+    font-weight: bolder;
+}
